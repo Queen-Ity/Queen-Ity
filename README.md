@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi there 👋
+I am a Web Developer
+A copywriter
+UI/UX Designer
+A lifestyle writer
+And Very Sapiosexual.
 
-<!--
-**Queen-Ity/Queen-Ity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on improving in fullstack web development, Copywriting and UI/UX design.
+  
+Fun fact: I question my whole life at night but still wake up the following morning ready to learn something new.
+I am calm on the outside but internally, I am running deep audits on my goals and future.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
