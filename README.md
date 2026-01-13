@@ -1,9 +1,9 @@
 ## Queen-Ity
 
 ### INTEREST
-*-I am a Web Developer
+_*I am a Web Developer
 
-*-A copywriter
+_*A copywriter
 
 -*UI/UX Designer
 
