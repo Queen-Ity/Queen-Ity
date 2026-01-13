@@ -1,13 +1,17 @@
 ## Queen-Ity
 
 ### INTEREST
--I am a Web Developer
--A copywriter
--UI/UX Designer
--A lifestyle writer
--And Very Sapiosexual.
+*-I am a Web Developer
 
--I’m currently working on improving in fullstack web development, Copywriting and UI/UX design.
+*-A copywriter
+
+-*UI/UX Designer
+
+-*A lifestyle writer
+
+-*And Very Sapiosexual.
+
+-*I’m currently working on improving in fullstack web development, Copywriting and UI/UX design.
   
 -Fun fact: 
 -I question my whole life at night but still wake up the following morning ready to learn something new.
